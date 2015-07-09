@@ -1,0 +1,162 @@
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:37:27 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : 
+Serial          : GF49-WL34-82EV-82KQ-XSUU-63SV
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:37:40 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : Array
+Serial          : CJ06-XM07-19OC-44ZE-WFEY-09LV
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:38:59 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : 
+Serial          : ZX68-JT15-27RR-26SX-LOBD-43BU
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:39:51 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : GB59-ON89-49VV-50WB-VBTQ-96VY
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:42:41 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : CB90-SA43-97HU-49QX-HXLR-02ZN
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:43:17 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : TF14-CN28-14FU-46IS-CJKN-73UT
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:43:28 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : NS33-XH48-02YC-52DQ-NRWL-41NY
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 10:44:29 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : PV81-LN34-13SZ-11JA-TDDR-49JI
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:10:07 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : HV89-YM00-41TQ-45GC-BYKL-89QC
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:10:39 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : UX60-QL98-48HJ-77AC-SKZA-95NO
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:14:26 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : IM52-SJ19-17YZ-22GW-BCXO-21HO
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:15:42 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : WL17-OV07-34OJ-80FD-FXUB-96QO
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:16:45 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : FN56-PG97-10SU-46CJ-SHYJ-46QG
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:17:01 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : RY90-CY31-77QO-32CT-UOPS-84NW
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:17:13 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : LA62-IC42-58OW-60NO-SYBJ-41OR
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:17:20 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"2";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : VY84-NA32-56UY-64OB-SSNO-41AX
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:17:22 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"1";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : AZ80-XX44-21ND-54NN-BBHO-26CU
+---------------------------------------------------
+Hata Açıklaması : Rest service has been used
+Zaman           : Wednesday 17th of June 2015 11:17:23 AM
+IP              : ::1
+Url             : http://localhost
+Path            : /slim_test/index.php/getReports_test
+Method          : GET
+Params          : a:5:{s:3:"url";s:15:"getReports_test";s:4:"page";s:1:"2";s:4:"rows";s:2:"10";s:4:"sort";s:6:"r_date";s:5:"order";s:3:"asc";}
+Serial          : IK81-TB80-78AP-75QD-AHOQ-08CQ
+---------------------------------------------------
